@@ -1,10 +1,10 @@
 <!-- Profile README for @zevenuscodes -->
 <h1 align="center">👋 Hey there, I'm Yash Joshi</h1>
 <h3 align="center">🚀 AI | DevOps | Blockchain | Full-Stack Developer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Building+SpineGuard+%7C+AI+Posture+Detector;💡+Creator+of+DVote+%7C+Decentralized+Voting;⚙️+Working+on+DevOps+and+Kubernetes;⚡+Exploring+AI+and+Blockchain+Integration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+DevOps+%7C+Blockchain+%7C+Full+Stack+Developer;Always+Building+Something+Cool+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
