@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI | DevOps | Blockchain | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Building+SpineGuard+%7C+AI+Posture+Detector;💡+Creator+of+DVote+%7C+Decentralized+Voting;⚙️+Working+on+DevOps+and+Kubernetes;⚡+Exploring+AI+and+Blockchain+Integration!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Building+SpineGuard+%7C+AI+Posture+Detector;💡+Creator+of+DVote+%7C+Decentralized+Voting;⚙️+Working+on+DevOps+and+Kubernetes;⚡+Exploring+AI+and+Blockchain+Integration!" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 🧩 Currently exploring: `Kubernetes`, `RAG Pipelines`, and `Model Fine-tuning`
 - 🌱 Learning how to connect **IoT**, **AI**, and **Web Apps**
 - 💬 Ask me about: Machine Learning, Solidity, and Full-Stack Projects
-- ⚡ Fun fact: My GitHub commits are like my caffeine shots — daily & essential ☕  
+- ⚡ Fun fact: My GitHub commits are like my caffeine shots — daily & essential ☕
 
 ---
 
