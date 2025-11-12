@@ -1,7 +1,20 @@
 <!-- Profile README for @zevenuscodes -->
+
+<!-- 🌊 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=140&section=header&text=Yash%20Joshi&fontAlign=50&fontAlignY=30&fontSize=42&fontColor=0d1117&animation=fadeIn&desc=AI%20%7C%20DevOps%20%7C%20Blockchain&descAlignY=60" />
+
 <h1 align="center">👋 Hey there, I'm Yash Joshi</h1>
 <h3 align="center">🚀 AI | DevOps | Blockchain | Full-Stack Developer</h3>
 
+<!-- 🧠 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=AI+%7C+DevOps+%7C+Blockchain;Full+Stack+Developer+%7C+Builder+🚀" alt="Typing SVG" />
+</p>
+
+<!-- 🔥 Pulse Divider -->
+<p align="center">
+  <img src="https://github.com/kogisin/readme-assets/raw/main/lines/pulse-line.gif" width="70%" />
+</p>
 
 ---
 
@@ -44,6 +57,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zevenuscodes&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=8&margin-h=8" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -53,6 +74,30 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zevenuscodes&theme=dracula" />
+</p>
+
+---
+
+## 🌈 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zevenuscodes/zevenuscodes/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/zevenuscodes/zevenuscodes/blob/output/snake.svg" />
+</p>
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zevenuscodes/zevenuscodes/main/metrics.svg" />
 </p>
 
 ---
@@ -67,13 +112,8 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+<!-- 🌊 Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00F7FF&height=120&section=footer" />
 
-<p align="center">
-  <img src="https://github.com/zevenuscodes/zevenuscodes/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-⭐ **Pro Tip:** Star your favorite repos — they appear on your public profile.  
+⭐ **Pro Tip:** Star your favorite repos — they appear on your profile.  
 💬 Want to collaborate? → *DM me on [LinkedIn](https://linkedin.com/in/yash-joshi-a5777931a/)!*
