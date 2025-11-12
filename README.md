@@ -3,19 +3,19 @@
 <h3 align="center">🚀 AI | DevOps | Blockchain | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Building+SpineGuard+%7C+AI+Posture+Detector;💡+Creator+of+DVote+%7C+Decentralized+Voting;🍸+HappyHours+AI+%7C+Bartender+Recommendation;💻+100DaysOfDevOps+in+Progress;⚡+Let's+Build+Something+Epic+Together!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Building+SpineGuard+%7C+AI+Posture+Detector;💡+Creator+of+DVote+%7C+Decentralized+Voting;⚙️+Working+on+DevOps+and+Kubernetes;⚡+Exploring+AI+and+Blockchain+Integration!"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 2nd-Year BTech Student @ **VIT Vellore**
-- 💼 Building projects under **Pentabyte Team**
-- 🧩 Currently working on: `AI + IoT`, `Blockchain`, `DevOps Automation`
-- 🌱 Learning **Kubernetes**, **Hardhat**, and **RAG Pipelines**
-- 💬 Ask me about: AI/ML, DevOps pipelines, or cool full-stack projects
-- ⚡ Fun fact: I treat GitHub commits like a daily gym workout 😆
+- 🎓 3rd-Year BTech Student @ **VIT Vellore**
+- 💼 Passionate about **AI**, **Blockchain**, and **DevOps**
+- 🧩 Currently exploring: `Kubernetes`, `RAG Pipelines`, and `Model Fine-tuning`
+- 🌱 Learning how to connect **IoT**, **AI**, and **Web Apps**
+- 💬 Ask me about: Machine Learning, Solidity, and Full-Stack Projects
+- ⚡ Fun fact: My GitHub commits are like my caffeine shots — daily & essential ☕  
 
 ---
 
@@ -42,9 +42,8 @@
 |------------|----------------|---------------|
 | [**SpineGuard**](https://github.com/zevenuscodes/spineguard) | AI-powered posture monitoring & correction system using MPU6050 sensor + ML | Python, Flask, React, IMU, ML |
 | [**DVote**](https://github.com/zevenuscodes/dvote) | Blockchain-based decentralized voting platform with whitelisting & smart contracts | Solidity, Hardhat, React, MetaMask |
-| [**HappyHours AI**](https://github.com/zevenuscodes/happyhours) | AI bartender recommendation engine powered by Elasticsearch & ML models | Node.js, ElasticSearch, React |
 | [**VPN GUI Manager**](https://github.com/zevenuscodes/vpn-gui) | Custom GUI app to manage WireGuard VPN tunnels on Windows | Python, PyQt5, WireGuard |
-| [**100DaysOfDevOps**](https://github.com/zevenuscodes/100DaysOfDevOps) | Daily hands-on DevOps learning logs & automation scripts | Docker, CI/CD, AWS, Bash |
+| [**Portfolio Website**](https://github.com/zevenuscodes/portfolio-nextjs) | My personal portfolio built with a clean, minimal UI | Next.js, Tailwind CSS, Firebase |
 
 ---
 
@@ -64,7 +63,7 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ripun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yash-joshi-a5777931a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zevmedias@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/zevenuscodes"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -79,5 +78,5 @@
 
 ---
 
-⭐ **Pro Tip:** Star your favorite repos — they show up on your public profile.  
-💬 Want to collaborate on something cool? → *Drop me a DM on LinkedIn!*
+⭐ **Pro Tip:** Star your favorite repos — they appear on your public profile.  
+💬 Want to collaborate? → *DM me on [LinkedIn](https://linkedin.com/in/yash-joshi-a5777931a/)!*
