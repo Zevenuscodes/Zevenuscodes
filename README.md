@@ -81,8 +81,7 @@
 ## 🌈 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zevenuscodes/zevenuscodes/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/zevenuscodes/zevenuscodes/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 ---
 
